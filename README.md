@@ -18,6 +18,11 @@ I'm an Interpreter and Translator who developed a passion for **Front End Progra
 -----
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 **Languages and Tools I am currently 24/7 obsessed with:**  
