@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YamiTL.visitor-badge&left_color=purple&right_color=violet)
-![](https://tokei.rs/b1/github/project-jedi/jcl&left_color=purple&right_color=violet)
+![](https://tokei.rs/b1/github/project-jedi/jcl)
 
 <h1 align="center">Hi there👋, I'm Yamila Lemos</h1>
 <h3 align="center">Front End Developer going into Full Stack and DApps!</h3>
