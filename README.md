@@ -1,5 +1,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YamiTL.visitor-badge&left_color=purple&right_color=violet)
-[link](www.github.com)
 <!-- [![](https://tokei.rs/b1/github/YamiTL/tokei)](https://github.com/YamiTL) -->
 
 <h1 align="center">Hi there👋, I'm Yamila Lemos</h1>
