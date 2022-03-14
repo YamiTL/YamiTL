@@ -23,7 +23,7 @@ I'm an Interpreter and Translator who developed a passion for **Front End Progra
 ```text
 JavaScript   9 hrs 21 mins   █████████████▒░░░░░░░░░░░   53.08 %
 CSS          4 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.97 %
-HTML         3 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+HTML         3 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.36 %
 JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 TypeScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
