@@ -2,7 +2,7 @@
 <!-- [![](https://tokei.rs/b1/github/YamiTL/tokei)](https://github.com/YamiTL) -->
 
 <h1 align="center">Hi there👋, I'm Yamila Lemos</h1>
-<h3 align="center">Front End Developer going into Full Stack and DApps!</h3>
+<h3 align="center"> Full Stack Developer Jr++!</h3>
 
 <p align="center">
 <br/>
