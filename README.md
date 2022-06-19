@@ -11,7 +11,7 @@
 </a>
 </p>
 
-I'm an Interpreter and Translator who developed a passion for **Front End Programming** at [@ZeroToMasteryAcademy](https://zerotomastery.io/), and decided to pursue my next career path as a Full-Stack Developer at [@Coder House](https://www.coderhouse.com/). I am also currently working as a **Full-Stack Developer** at [@NTT Data Europe and Latam](https://www.linkedin.com/company/linkhub-ai/](https://es.nttdata.com/)).
+I'm an Interpreter and Translator who developed a passion for **Front End Programming** at [@ZeroToMasteryAcademy](https://zerotomastery.io/), and decided to pursue my next career path as a **Full-Stack Developer** at [@Coder House](https://www.coderhouse.com/). I am also currently working as a **Full-Stack Developer** at [@NTT Data Europe and Latam](https://www.linkedin.com/company/linkhub-ai/](https://es.nttdata.com/)).
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
