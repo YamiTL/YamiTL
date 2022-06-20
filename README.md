@@ -21,9 +21,9 @@ I'm an Interpreter and Translator who developed a passion for **Front End Progra
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     9 mins          █████████████░░░░░░░░░░░░   51.55 %
-TypeScript   8 mins          ████████████░░░░░░░░░░░░░   48.23 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript   34 mins         ███████████████████▓░░░░░   79.22 %
+Markdown     9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
