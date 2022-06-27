@@ -21,8 +21,7 @@ I'm an Interpreter and Translator who developed a passion for **Front End Progra
 <!--START_SECTION:waka-->
 
 ```text
-Go           50 mins         ████████████████▒░░░░░░░░   65.77 %
-TypeScript   26 mins         ████████▓░░░░░░░░░░░░░░░░   34.23 %
+Go   50 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
