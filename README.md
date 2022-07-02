@@ -21,8 +21,9 @@ I'm an Interpreter and Translator who developed a passion for **Front End Progra
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 5 mins     ██████████████████████▒░░   89.65 %
-SCSS         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+TypeScript   1 hr 18 mins    ██████████████████████▓░░   90.01 %
+SCSS         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
