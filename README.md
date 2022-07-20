@@ -21,7 +21,12 @@ I'm an Interpreter and Translator who developed a passion for **Front End Progra
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML         3 hrs 8 mins    ████████████▒░░░░░░░░░░░░   49.78 %
+CSS          1 hr 36 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
+Markdown     1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+JavaScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
