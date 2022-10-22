@@ -21,12 +21,12 @@ I'm an Interpreter and Translator who developed a passion for **Front End Progra
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   11 hrs 38 mins  ██████████████████████▓░░   90.41 %
-SCSS         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Git          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript   11 hrs 38 mins  ██████████████████████▒░░   89.43 %
+SCSS         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Git          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
