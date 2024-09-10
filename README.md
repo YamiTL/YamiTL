@@ -26,18 +26,11 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-**Languages and Tools I am currently 24/7 obsessed with:**  
+**Languages and Tools I'm interested in:**  
 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"></code>
-<code><img height="50" src="https://img2.freepng.es/20180716/ifs/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c6d53234.5616833615317498308733.jpg"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
-
-
-**Languages and Tools I am starting to be obsessed with:**  
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
+<code><img height="50" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"></code>
 
 -----
