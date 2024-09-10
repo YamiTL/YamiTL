@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YamiTL.visitor-badge&left_color=purple&right_color=violet)
-<!-- [![](https://tokei.rs/b1/github/YamiTL/tokei)](https://github.com/YamiTL) -->
 
 <h1 align="center">Hi there👋, I'm Yami Lemos!</h1>
 <h3 align="center">Translator and Developer</h3>
@@ -15,15 +13,7 @@ I'm a Buenos Aires-based Translator who developed a passion for **Coding** at [@
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
 
------
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 **Languages and Tools I'm currently learning:**  
 
